@@ -1,6 +1,6 @@
 # Hydrogen
 
-Hydrogen is a simple, educational programming language implemented in C++. Designed to help beginners understand the fundamentals of compiler construction, Hydrogen covers key concepts such as tokenization, parsing, and code generation. This project demonstrates how to build a basic compiler that translates Hydrogen code into assembly, assembles it, and links it into an executable.
+Hydrogen is a simple, educational programming language implemented in C++. Designed to help beginners understand the fundamentals of compiler construction, Hydrogen covers key concepts such as tokenization, parsing, and code generation. This project demonstrates how to build a basic compiler that translates Hydrogen code into assembly, assembles it, and links it into an executable. It is made for Mac ARM64 architecture.
 
 ## Table of Contents
 - [Features](#features)
