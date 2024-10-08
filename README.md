@@ -3,20 +3,20 @@
 Hydrogen is a simple, educational programming language implemented in C++. Designed to help beginners understand the fundamentals of compiler construction, Hydrogen covers key concepts such as tokenization, parsing, and code generation. This project demonstrates how to build a basic compiler that translates Hydrogen code into assembly, assembles it, and links it into an executable.
 
 ## Table of Contents
-- Features
-- Language Syntax
-- Getting Started
-  - Prerequisites
-  - Installation
-- Usage
-  - Writing Hydrogen Code
-  - Compiling Hydrogen Code
-- Project Structure
-- Example
-- Building from Source
-- Contributing
-- License
-- Acknowledgements
+- [Features](#features)
+- [Language Syntax](#language-syntax)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+  - [Writing Hydrogen Code](#writing-hydrogen-code)
+  - [Compiling Hydrogen Code](#compiling-hydrogen-code)
+- [Project Structure](#project-structure)
+- [Example](#example)
+- [Building from Source](#building-from-source)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## Features
 - **Simple Syntax:** Easy-to-read and write syntax suitable for learning compiler basics.
